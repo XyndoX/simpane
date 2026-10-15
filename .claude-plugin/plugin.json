@@ -1,0 +1,7 @@
+{
+  "name": "simpane",
+  "version": "0.1.0",
+  "description": "iPhone and Android simulators live in a side pane: watch, tap, swipe and type while your agent tests the app",
+  "author": { "name": "XyndoX" },
+  "license": "MIT"
+}

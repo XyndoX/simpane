@@ -1,0 +1,6 @@
+{
+  "name": "simpane",
+  "description": "simpane: iPhone and Android simulators in a Claude Code pane",
+  "owner": { "name": "XyndoX" },
+  "plugins": [{ "name": "simpane", "source": "./", "description": "Live iOS Simulator and Android emulator screens in a pane, with tap, swipe and typing", "category": "development" }]
+}
