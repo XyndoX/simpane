@@ -51,7 +51,7 @@ If nothing is running, the pane lists your simulators or AVDs. Click one to boot
 
 - A terminal that draws pictures: Ghostty, cmux or kitty. tmux does not.
 - **iPhone:** Xcode, plus [AXe](https://github.com/cameroncooke/AXe) for input and fast frames: `brew install cameroncooke/axe/axe`. Without AXe the screen still mirrors (via `xcrun simctl`, about 1 frame a second), but it takes no input. idb's input does not work with Xcode 27.
-- **Android:** `adb` and `emulator` on the PATH or in `~/Library/Android/sdk`, for example from Android Studio's Device Manager or `brew install --cask android-commandlinetools`.
+- **Android:** `adb` and `emulator` on the PATH or in `~/Library/Android/sdk`, for example from Android Studio's Device Manager or `brew install --cask android-commandlinetools`. Android support is written but not yet tested on a real emulator — reports welcome.
 
 ## Letting the agent test
 
